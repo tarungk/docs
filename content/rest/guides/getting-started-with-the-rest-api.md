@@ -1,4 +1,5 @@
 ---
+<?p
 title: Getting started with the REST API
 intro: 'Learn the foundations for using the REST API, starting with authentication and some endpoint examples.'
 redirect_from:
@@ -495,3 +496,4 @@ Keep learning with the next API guide [Basics of Authentication][auth guide]!
 [repo issues api]: /rest/reference/issues#list-repository-issues
 [etag]: http://en.wikipedia.org/wiki/HTTP_ETag
 [2fa section]: /rest/guides/getting-started-with-the-rest-api#two-factor-authentication
+?>
